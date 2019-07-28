@@ -6,6 +6,11 @@ authors = ["Daniil Larionov <dslarionov@isa.ru>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+PyGithub = "^1.43"
+Markdown = "^3.1"
+httpx = "^0.6.8"
+pandas = "^0.25.0"
+tables = "^3.5"
 
 [tool.poetry.dev-dependencies]
 pytest = "^3.0"
